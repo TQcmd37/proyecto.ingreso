@@ -1,0 +1,5 @@
+.app{
+  background-color: var(--color-background);
+  color: var(--color-text);
+  height: 100vh;
+}
